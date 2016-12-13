@@ -1,0 +1,12 @@
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\bin\Release\xml-kilka plikow.exe.config
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\bin\Release\xml-kilka plikow.exe
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\bin\Release\xml-kilka plikow.pdb
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\obj\Release\xml_kilka_plikow.Form1.resources
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\obj\Release\xml_kilka_plikow.Properties.Resources.resources
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\obj\Release\xml-kilka plikow.csproj.GenerateResource.Cache
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\obj\Release\xml-kilka plikow.exe
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\obj\Release\xml-kilka plikow.pdb
+C:\Users\Bart\Documents\Visual Studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\obj\Release\xml-kilka plikow.csprojResolveAssemblyReference.cache
+C:\Users\Bart\Desktop\interviw\przykładowe programy\xml-kilka plikow\xml-kilka plikow\bin\Release\xml-kilka plikow.exe.config
+C:\Users\Bart\Desktop\interviw\przykładowe programy\xml-kilka plikow\xml-kilka plikow\obj\Release\xml-kilka plikow.exe
+C:\Users\Bart\Desktop\interviw\przykładowe programy\xml-kilka plikow\xml-kilka plikow\obj\Release\xml-kilka plikow.pdb

@@ -1,0 +1,9 @@
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\bin\Debug\xml-kilka plikow.exe.config
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\bin\Debug\xml-kilka plikow.exe
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\bin\Debug\xml-kilka plikow.pdb
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\obj\Debug\xml-kilka plikow.csprojResolveAssemblyReference.cache
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\obj\Debug\xml_kilka_plikow.Form1.resources
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\obj\Debug\xml_kilka_plikow.Properties.Resources.resources
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\obj\Debug\xml-kilka plikow.csproj.GenerateResource.Cache
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\obj\Debug\xml-kilka plikow.exe
+c:\users\bart\documents\visual studio 2012\Projects\xml-kilka plikow\xml-kilka plikow\obj\Debug\xml-kilka plikow.pdb
