@@ -15,7 +15,7 @@ namespace xml_kilka_plikow
         [STAThread]
         static void Main()
         {
-	    //Test1
+	    //Test11
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
